@@ -1,18 +1,29 @@
-body {background-color: rgb(144, 144, 144);}
 
+body {
+    background-color: rgb(133, 124, 186);
+    margin: 0; 
+}
 
 .Webpage_Title {
     font-size: 22pt;
     text-align: center;
+    margin-top: 20px; 
 }
-
 
 .body_text {
-    color: rgb(79, 79, 79);
+    color: rgb(126, 61, 61);
     font-size: 25px;
+    margin-bottom: 30px; 
 }
-
 
 .center {
     text-align: center;
+}
+
+
+.section {
+    padding: 80px 0; 
+    text-align: center;
+    background-color: white; 
+    margin-bottom: 20px; 
 }
